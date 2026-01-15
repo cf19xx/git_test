@@ -1,0 +1,2 @@
+Hello, world!
+This is example text for git_test.
